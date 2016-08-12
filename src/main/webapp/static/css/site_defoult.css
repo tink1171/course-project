@@ -1,0 +1,45 @@
+.default {
+    background: white;
+    border: 5px solid #3c3c3c;
+
+}
+
+.dark {
+    background: grey;
+    border: 5px solid #3c3c3c;
+}
+
+.none{
+    display: none;
+}
+.box {
+    float:left ;
+    border: 2px solid #3c3c3c;
+    width: 267.5px;
+    margin: 10px;
+    height: 275px;
+    background: rgba(25, 222, 32, 0.2);
+}
+
+.rectangle {
+    float:left ;
+    border: 2px solid #3c3c3c;
+    width: 555px;
+    margin: 10px;
+    height: 275px;
+    background: rgba(53, 222, 34, 0.2);
+}
+
+.draggable{
+    width: 65px;
+    height: 65px;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.nav{
+    display: block;
+}
+
+
+
